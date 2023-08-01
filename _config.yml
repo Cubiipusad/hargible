@@ -17,8 +17,8 @@ title: Hargible
 email: noemailpls
 description: >- # this means to ignore newlines until "baseurl:"
   A Hargible Happening in the House
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/hargible" # the subpath of your site, e.g. /blog
+url: "https://hargible.space" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: loopoop2
 github_username:  cubiipusad
